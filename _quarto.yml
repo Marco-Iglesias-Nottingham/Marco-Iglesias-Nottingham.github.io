@@ -13,6 +13,8 @@ format:
   revealjs:
     css: styles.css
     toc: true
+    chalkboard: 
+      src: chalkboard.json
 
 
 
