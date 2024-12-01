@@ -10,8 +10,7 @@ website:
       - about.qmd
 
 format:
-  html:
-    theme: cosmo
+  revealjs:
     css: styles.css
     toc: true
 
